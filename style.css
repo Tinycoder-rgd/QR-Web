@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(185, 229, 226);
+}
+.main{
+    background-color: white;
+     display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: auto;
+    padding: 20px;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: 200px;
+}
+img{
+    width: 300px;
+}
+.content{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+     text-align: center;
+    font-size: 15px;
+
+}
